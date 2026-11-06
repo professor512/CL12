@@ -73,3 +73,5 @@ For full explanations of each practical (theory, step-by-step code walkthrough, 
 - 📂 [IR/README.md](IR/README.md) — Information Retrieval Practicals (P6–P10)
 - 📂 [ML/README.md](ML/README.md) — Machine Learning Practicals (P1–P6)
 - 📂 [DMV/README.md](DMV/README.md) — Data Mining & Visualization Practicals (P1–P5)
+
+### By: Karan Salunkhe
